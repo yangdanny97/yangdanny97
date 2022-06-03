@@ -1,7 +1,7 @@
 I'm currently a software engineer at Meta, working on WhatsApp. I'm interested in compilers, programming languages, and data visualization, and I maintain [a blog](https://yangdanny97.github.io) where I talk about some of those things.
 
-image::https://github-profile-trophy.vercel.app/?username=yangdanny97&theme=nord&row=1[trophy]
+![trophy](https://github-profile-trophy.vercel.app/?username=yangdanny97&theme=nord&row=1)
 
-image::https://github-readme-stats.vercel.app/api/top-langs/?usernameyangdanny97&layout=compact&hide=html&theme=nord&card_width=445[lang_stats]
+![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?usernameyangdanny97&layout=compact&hide=html&theme=nord&card_width=445)
 
-image::https://github-readme-stats.vercel.app/api?username=yangdanny97&show_icons=true&theme=nord&hide_rank=true[stats]
+![stats](https://github-readme-stats.vercel.app/api?username=yangdanny97&show_icons=true&theme=nord&hide_rank=true)
