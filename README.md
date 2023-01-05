@@ -2,5 +2,5 @@ I'm currently a software engineer at Meta, working on WhatsApp. I'm interested i
 
 If you're a JavaScript developer interested in learning the basics of functional programming through ReScript, consider preordering my book [Introducing ReScript: Functional Programming for the Web](https://www.amazon.com/Introducing-ReScript-Functional-Programming-Applications/dp/1484288874).
 
-I'm available for part-time consulting/contracting work in the areas of data visualization and geospatial data processing. If you want me to build you an interactive dashboard/chart/map, shoot me an email or find me on [Upwork](https://www.upwork.com/freelancers/~0135c6f16760131b2c).
+I'm available for part-time consulting in the area of data visualization and geospatial data processing (mapmaking). If you're interested in my services, shoot me an email.
 
