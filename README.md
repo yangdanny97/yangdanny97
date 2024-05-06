@@ -1,4 +1,4 @@
-I'm currently a ~~software engineer~~microkitchen inspector at Meta, working on WhatsApp. Broadly speaking, I work on developer tooling - things like: DSLs, source code generation, IDE extensions, and automated cross-repository code syncing, just to name a few.
+I'm currently a ~~software engineer~~microkitchen inspector at Meta, working on WhatsApp. Broadly speaking, I work on developer tooling/infrastructure - things like: source code generation, IDE extensions, linting/static analysis, IDE integrations, cross-repository code syncing, just to name a few.
 
 I'm interested in compilers, programming languages, and data visualization, and I maintain [a blog](https://yangdanny97.github.io) where I talk about some of those things.
 
