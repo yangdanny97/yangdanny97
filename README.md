@@ -1,4 +1,4 @@
-I'm currently a ~~software engineer~~microkitchen inspector at Meta, working on WhatsApp. Broadly speaking, I work on developer tooling/infrastructure. Basically, things that allow other developers to be more productive and ship changes more quickly/safely and catch bugs earlier. Such as: source code generation, IDE extensions, linting/static analysis, cross-repository code syncing, just to name a few.
+I'm currently a ~~software engineer~~microkitchen inspector at Meta, working on [Pyre](https://pyre-check.org/). Previously, I worked on developer infrastructure for WhatsApp and product infrastructure for Messenger.
 
 I'm interested in compilers, programming languages, and data visualization, and I maintain [a blog](https://yangdanny97.github.io) where I talk about some of those things.
 
